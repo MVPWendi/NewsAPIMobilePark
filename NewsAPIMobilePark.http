@@ -1,0 +1,6 @@
+@NewsAPIMobilePark_HostAddress = http://localhost:5033
+
+GET {{NewsAPIMobilePark_HostAddress}}/Api/GetNews
+Accept: application/json
+
+###
